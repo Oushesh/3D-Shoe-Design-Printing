@@ -5,3 +5,6 @@ https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/shoe-design-sof
 
 
 Test and check the cost for Design and Fast iteration
+
+
+https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/shoe-design-software/
