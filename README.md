@@ -14,3 +14,5 @@ of thins: stereolithography technology (To come: not yet doable), simulation is 
 
 
 3D Modelling for Less: https://www.youtube.com/watch?v=ogL-2IClOug
+
+Things to check: OpenSfM Tool, 3D Modelling, poseNet, center, dextr, grab, psp (lip), etc...
